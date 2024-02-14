@@ -1,0 +1,1321 @@
+/* Frame 28 */
+
+position: relative;
+width: 746px;
+height: 1313px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 666px;
+height: 1232px;
+left: 40px;
+top: 48px;
+
+background: #202020;
+border: 1px solid rgba(0, 0, 0, 0.25);
+
+
+/* Line 29 */
+
+position: absolute;
+width: 605px;
+height: 0px;
+left: 69px;
+top: 746px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Line 28 */
+
+position: absolute;
+width: 605px;
+height: 0px;
+left: 71px;
+top: 715px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Line 27 */
+
+position: absolute;
+width: 605px;
+height: 0px;
+left: 72px;
+top: 678px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Line 26 */
+
+position: absolute;
+width: 605px;
+height: 0px;
+left: 69px;
+top: 644px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Line 25 */
+
+position: absolute;
+width: 605px;
+height: 0px;
+left: 69px;
+top: 611px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 455px;
+height: 44px;
+left: 110px;
+top: 116px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 55px;
+height: 38px;
+left: 581px;
+top: 119px;
+
+
+
+/* Rectangle 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 157px;
+height: 30px;
+left: 42px;
+top: 9px;
+
+background: #B10000;
+
+
+/* BabyShark_1920774 1 */
+
+position: absolute;
+width: 665px;
+height: 297px;
+left: 707px;
+top: 345px;
+
+background: url(BabyShark_1920774.jpg);
+filter: blur(35px);
+transform: rotate(180deg);
+
+
+/* 공지사항 */
+
+position: absolute;
+width: 143px;
+height: 30px;
+left: 52px;
+top: 14px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 예매 */
+
+position: absolute;
+width: 52px;
+height: 22px;
+left: 86px;
+top: 164px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+
+/* 영화 */
+
+position: absolute;
+width: 56px;
+height: 22px;
+left: 152px;
+top: 164px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+
+/* 영화관 */
+
+position: absolute;
+width: 80px;
+height: 22px;
+left: 222px;
+top: 164px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+
+/* 이벤트 */
+
+position: absolute;
+width: 80px;
+height: 22px;
+left: 302px;
+top: 164px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 254px;
+height: 85px;
+left: 92px;
+top: 74px;
+
+
+
+/* HICINEMA */
+
+position: absolute;
+width: 240.57px;
+height: 50px;
+left: 92px;
+top: 74px;
+
+font-family: 'Russo One';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 54px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 10px rgba(255, 255, 255, 0.5);
+
+
+/* HICINEMA */
+
+position: absolute;
+width: 254px;
+height: 50px;
+left: 92px;
+top: calc(50% - 50px/2 - 472.5px);
+
+font-family: 'Russo One';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 54px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0) 40.5%, rgba(255, 255, 255, 0.195) 73%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+opacity: 0.4;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* 스토어 */
+
+position: absolute;
+width: 80px;
+height: 22px;
+left: 382px;
+top: 164px;
+
+font-family: 'Inria Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+
+/* Mask group */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 649px;
+top: 159.23px;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 649px;
+top: 159.23px;
+
+
+
+/* Mask group */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 649px;
+top: 159.23px;
+
+
+
+/* Mask group */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 649px;
+top: 159.23px;
+
+
+
+/* search 1 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 649px;
+top: 159.23px;
+
+background: url(search.png);
+mix-blend-mode: normal;
+
+
+/* Rectangle 140 */
+
+position: absolute;
+width: 20.81px;
+height: 23.85px;
+left: 649px;
+top: 155.67px;
+
+background: #FFFFFF;
+
+
+/* Mask group */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 620px;
+top: 1227px;
+
+opacity: 0.7;
+
+
+/* youtube (1) 1 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 620px;
+top: 1227px;
+
+background: url(youtube (1).png);
+
+
+/* Rectangle 151 */
+
+position: absolute;
+width: 41.91px;
+height: 38.84px;
+left: 611.31px;
+top: 1219.33px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 153 */
+
+position: absolute;
+width: 57.76px;
+height: 60.82px;
+left: 603.13px;
+top: 1206.56px;
+
+background: #FFFFFF;
+
+
+/* Mask group */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 650px;
+top: 1227px;
+
+opacity: 0.7;
+
+
+/* instagram (1) 1 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 650px;
+top: 1227px;
+
+background: url(instagram (1).png);
+
+
+/* Rectangle 152 */
+
+position: absolute;
+width: 34px;
+height: 34.76px;
+left: 646px;
+top: 1221.89px;
+
+background: #FFFFFF;
+
+
+/* Mask group */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 590px;
+top: 1227px;
+
+opacity: 0.7;
+
+
+/* facebook 1 */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: 590px;
+top: 1227px;
+
+background: url(facebook.png);
+
+
+/* Rectangle 146 */
+
+position: absolute;
+width: 39.43px;
+height: 37.79px;
+left: 587.26px;
+top: 1219.88px;
+
+background: #FFFFFF;
+
+
+/* HICINEMA */
+
+position: absolute;
+width: 197px;
+height: 50px;
+left: 82px;
+top: 1093px;
+
+font-family: 'Russo One';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+
+
+/* 회사소개 | 이용약관 | 개인정보처리방침 | 이메일무단수집거부 | 고정형 영상정보처리기기 운영 및 관리방침 L.POINT회원안내 | 배정기준 | 채용안내 | 광고/임대문의 | 사회적책임 서울특별시 송파구 올림픽로 300 롯데월드타워 27층 대표 이메일 lottecultureworks@lotte.net 고객센터 1544-8855 (유료) 사업자등록번호 313-87-00979 통신판매업신고번호 제1184호 사업자정보확인 대표이사 최병환개인정보 보호 책임자 김병문호스팅 제공자 롯데정보통신 Copyright © LOTTE Cultureworks All Right Reserved. */
+
+position: absolute;
+width: 644px;
+height: 152px;
+left: 84px;
+top: 1139px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #FFFFFF;
+
+
+
+/* Mask group */
+
+position: absolute;
+width: 68.65px;
+height: 64px;
+left: 600.35px;
+top: 1085px;
+
+opacity: 0.7;
+
+
+/* searching-bar 1 */
+
+position: absolute;
+width: 68.65px;
+height: 64px;
+left: 600.35px;
+top: 1085px;
+
+background: url(searching-bar.png);
+
+
+/* Rectangle 142 */
+
+position: absolute;
+width: 103.23px;
+height: 53.68px;
+left: 590.03px;
+top: 1091.71px;
+
+background: #FFFFFF;
+
+
+/* Group 5 */
+
+position: absolute;
+width: 53px;
+height: 47.64px;
+left: 462px;
+top: 81.36px;
+
+
+
+/* 로그인 */
+
+position: absolute;
+width: 53px;
+height: 18px;
+left: 462px;
+top: 111px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 13px;
+
+color: #FFFFFF;
+
+
+
+/* Mask group */
+
+position: absolute;
+width: 23.62px;
+height: 23.62px;
+left: 473.45px;
+top: 81.36px;
+
+
+
+/* free-icon-login-1000972 1 */
+
+position: absolute;
+width: 23.62px;
+height: 23.62px;
+left: 473.45px;
+top: 81.36px;
+
+background: url(free-icon-login-1000972.png);
+
+
+/* Rectangle 154 */
+
+position: absolute;
+width: 47.74px;
+height: 53.65px;
+left: 464.1px;
+top: 69.06px;
+
+background: #FFFFFF;
+
+
+/* Group 6 */
+
+position: absolute;
+width: 42px;
+height: 46.85px;
+left: 511px;
+top: 82.15px;
+
+
+
+/* 회원가입 */
+
+position: absolute;
+width: 42px;
+height: 18px;
+left: 511px;
+top: 111px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 13px;
+
+color: #FFFFFF;
+
+
+
+/* Mask group */
+
+position: absolute;
+width: 26.77px;
+height: 22.81px;
+left: 520.76px;
+top: 82.15px;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 26.77px;
+height: 22.81px;
+left: 520.76px;
+top: 82.15px;
+
+
+
+/* free-icon-user-747376 1 */
+
+position: absolute;
+width: 22.81px;
+height: 22.81px;
+left: 520.76px;
+top: 82.15px;
+
+background: url(free-icon-user-747376.png);
+
+
+/* free-icon-plus-sign-3114793 1 */
+
+position: absolute;
+width: 7.93px;
+height: 7.93px;
+left: 539.6px;
+top: 90.08px;
+
+background: url(free-icon-plus-sign-3114793.png);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Rectangle 155 */
+
+position: absolute;
+width: 46.28px;
+height: 43.96px;
+left: 509.19px;
+top: 68.27px;
+
+background: #FFFFFF;
+
+
+/* Group 7 */
+
+position: absolute;
+width: 60px;
+height: 47px;
+left: 563px;
+top: 82px;
+
+
+
+/* 마이페이지 */
+
+position: absolute;
+width: 60px;
+height: 18px;
+left: 563px;
+top: 111px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 13px;
+
+color: #FFFFFF;
+
+
+
+/* Mask group */
+
+position: absolute;
+width: 25.35px;
+height: 25.35px;
+left: 575.01px;
+top: 82px;
+
+
+
+/* free-icon-user-5264565 1 */
+
+position: absolute;
+width: 25.35px;
+height: 25.35px;
+left: 575.01px;
+top: 82px;
+
+background: url(free-icon-user-5264565.png);
+
+
+/* Rectangle 156 */
+
+position: absolute;
+width: 36.62px;
+height: 37.87px;
+left: 570.32px;
+top: 76.05px;
+
+background: #FFFFFF;
+
+
+/* Group 8 */
+
+position: absolute;
+width: 51px;
+height: 48.66px;
+left: 625px;
+top: 80.34px;
+
+
+
+/* 고객센터 */
+
+position: absolute;
+width: 51px;
+height: 18px;
+left: 625px;
+top: 111px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 13px;
+
+color: #FFFFFF;
+
+
+
+/* Mask group */
+
+position: absolute;
+width: 28.01px;
+height: 28.01px;
+left: 630.99px;
+top: 80.34px;
+
+
+
+/* free-icon-customer-service-6154594 1 */
+
+position: absolute;
+width: 28.01px;
+height: 28.01px;
+left: 630.99px;
+top: 80.34px;
+
+background: url(free-icon-customer-service-6154594.png);
+
+
+/* Rectangle 157 */
+
+position: absolute;
+width: 52.84px;
+height: 56.03px;
+left: 623.98px;
+top: 72.06px;
+
+background: #FFFFFF;
+
+
+/* Line 13 */
+
+position: absolute;
+width: 192px;
+height: 0px;
+left: 479px;
+top: 183px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Line 14 */
+
+position: absolute;
+width: 665px;
+height: 0px;
+left: 42px;
+top: 147px;
+
+border: 0.2px solid rgba(255, 255, 255, 0.7);
+
+
+/* 1대1 문의 */
+
+position: absolute;
+width: 97px;
+height: 21px;
+left: 258px;
+top: 296px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 공지사항 */
+
+position: absolute;
+width: 97px;
+height: 21px;
+left: 180px;
+top: 296px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* FAQ */
+
+position: absolute;
+width: 97px;
+height: 21px;
+left: 103px;
+top: 296px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 고겍센터 */
+
+position: absolute;
+width: 161px;
+height: 54px;
+left: 38px;
+top: 248px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Line 20 */
+
+position: absolute;
+width: 622.01px;
+height: 0px;
+left: 71px;
+top: 275px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Line 23 */
+
+position: absolute;
+width: 622.01px;
+height: 0px;
+left: 71px;
+top: 342px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Rectangle 160 */
+
+position: absolute;
+width: 139px;
+height: 44px;
+left: 302px;
+top: 902px;
+
+
+
+/* 단체관람/대관문의 */
+
+position: absolute;
+width: 120px;
+height: 46px;
+left: 349px;
+top: 296px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 분실물 문의 */
+
+position: absolute;
+width: 293px;
+height: 50px;
+left: 368px;
+top: 295px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 162 */
+
+position: absolute;
+width: 605px;
+height: 93px;
+left: 71px;
+top: 396px;
+
+background: #BBB9B9;
+border-radius: 10px;
+
+
+/* Rectangle 163 */
+
+position: absolute;
+width: 70px;
+height: 45px;
+left: 138px;
+top: 417px;
+
+background: #D9D9D9;
+border-radius: 10px;
+
+
+/* 제목 */
+
+position: absolute;
+width: 84px;
+height: 39px;
+left: 130px;
+top: 433px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 164 */
+
+position: absolute;
+width: 296px;
+height: 45px;
+left: 222px;
+top: 417px;
+
+background: #D9D9D9;
+border-radius: 10px;
+
+
+/* 검색어를 입력해주세요. */
+
+position: absolute;
+width: 255px;
+height: 26px;
+left: 167px;
+top: 433px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 165 */
+
+position: absolute;
+width: 81px;
+height: 40px;
+left: 539px;
+top: 419px;
+
+background: #000000;
+border-radius: 10px;
+
+
+/* 검색 */
+
+position: absolute;/* Rectangle 163 */
+
+position: absolute;
+width: 70px;
+height: 45px;
+left: 138px;
+top: 417px;
+
+background: #D9D9D9;
+border-radius: 10px;
+
+
+/* 제목 */
+
+position: absolute;
+width: 84px;
+height: 39px;
+left: 130px;
+top: 433px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 164 */
+
+position: absolute;
+width: 296px;
+height: 45px;
+left: 222px;
+top: 417px;
+
+background: #D9D9D9;
+border-radius: 10px;
+
+
+/* 검색어를 입력해주세요. */
+
+position: absolute;
+width: 255px;
+height: 26px;
+left: 167px;
+top: 433px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 165 */
+
+position: absolute;
+width: 81px;
+height: 40px;
+left: 539px;
+top: 419px;
+
+background: #000000;
+border-radius: 10px;
+
+
+/* 검색 */
+
+position: absolute;
+width: 54px;
+height: 30px;
+left: 549px;
+top: 431px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Line 24 */
+
+position: absolute;
+width: 605px;
+height: 0px;
+left: 71px;
+top: 577px;
+
+border: 1px solid #FFFFFF;
+
+
+/* 번호 */
+
+position: absolute;
+width: 97px;
+height: 39px;
+left: 50px;
+top: 548px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 구분 */
+
+position: absolute;
+width: 97px;
+height: 39px;
+left: 129px;
+top: 548px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 제목 */
+
+position: absolute;
+width: 97px;
+height: 39px;
+left: 312px;
+top: 548px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 등록일 */
+
+position: absolute;
+width: 97px;
+height: 39px;
+left: 517px;
+top: 548px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 39px;
+height: 35px;
+left: 287px;
+top: 967px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 2 */
+
+position: absolute;
+width: 41px;
+height: 31px;
+left: 312px;
+top: 967px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 12px;
+height: 22px;
+left: 349px;
+top: 967px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* > */
+
+position: absolute;
+width: 52px;
+height: 31px;
+left: 469px;
+top: 967px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* >> */
+
+position: absolute;
+width: 57px;
+height: 35px;
+left: 515px;
+top: 967px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #FFFFFF;
+

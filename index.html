@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>영화관 사이트</title>
+    <style>
+        /* 스타일링을 위한 CSS 코드를 추가할 수 있습니다. */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        .social-icons {
+            display: flex;
+            gap: 10px;
+        }
+
+        .right-menu {
+            display: flex;
+            gap: 10px;
+        }
+
+        .logo img {
+            width: 100px; /* 로고 이미지의 크기를 조절하세요 */
+        }
+
+        .box-office {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .movie {
+            display: flex;
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .movie img {
+            width: 150px; /* 영화 포스터 이미지 크기를 조절하세요 */
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo">
+            <img src="img/로고3.png" alt="HICINAMA 로고">
+        </div>
+        <div class="social-icons">
+            <a href="#">페이스북</a>
+            <a href="#">유튜브</a>
+            <a href="#">인스타그램</a>
+        </div>
+        <div class="right-menu">
+            <a href="#">로그인</a>
+            <a href="#">회원가입</a>
+            <a href="#">빠른예매</a>
+        </div>
+    </header>
+
+    <nav>
+        <a href="#">홈</a>
+        <a href="#">상영 중인 영화</a>
+        <a href="#">예매</a>
+        <a href="#">이벤트</a>
+        <a href="#">고객센터</a>
+    </nav>
+
+    <section>
+        <h2>상영 중인 영화</h2>
+        <div class="box-office">
+            <h3>박스오피스 TOP 4</h3>
+        </div>
+        <div class="movie">
+            <img src="movie1_poster.jpg" alt="영화 포스터 1">
+            <p>영화 제목 1</p>
+        </div>
+        <div class="movie">
+            <img src="movie2_poster.jpg" alt="영화 포스터 2">
+            <p>영화 제목 2</p>
+        </div>
+        <div class="movie">
+            <img src="movie3_poster.jpg" alt="영화 포스터 3">
+            <p>영화 제목 3</p>
+        </div>
+        <div class="movie">
+            <img src="movie4_poster.jpg" alt="영화 포스터 4">
+            <p>영화 제목 4</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>예매</h2>
+        <!-- 예매 양식 및 정보를 입력하는 코드를 추가할 수 있습니다. -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 영화관 사이트. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
