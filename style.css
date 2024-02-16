@@ -1,0 +1,26 @@
+/* 자유게시판 */
+.free table {width: 700px; margin: 0 auto; border-collapse: collapse; table-layout: fixed;}
+.free th {border-top: 3px solid blue; border-bottom: 3px solid blue;}
+.free td {border-bottom: 1px solid gray;}
+.free .col1, .free .col4 {width: 8%;}
+.free .col3, .free .col5 {width: 14%;}
+.free th, .free td {padding: 10px;}
+.free td + td {text-align: left; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
+.free td, .free td + td + td {text-align: center;}
+.free a {text-decoration: none; color: rgb(80, 80, 80);}
+.free a:hover {color: blueviolet;}
+.free a + span {font-size: .7em; color: black}
+.free .face {width: 12px;}
+.free .button {width: 700px; margin: 20px auto 5px; text-align: right;}
+.free .button a {
+    background: rgb(138, 233, 138); border-radius: 3px;
+    padding: 6px 8px; margin: 25px; text-decoration: none; color: black;
+}
+.free .button a:hover {color: blueviolet;}
+.free .number {width: 350px; margin: 0 auto;}
+.free .number::after {content: ''; display: block; clear: both;}
+.free .number div {
+    width:30px; height: 26px; background: rgb(188, 223, 236); border-radius: 5px;
+    text-align: center; margin: 10px 10px 0px; padding: 4px 0 0; float: left;
+}
+.free .number .select {background: rgb(253, 198, 94); text-decoration: underline;}
