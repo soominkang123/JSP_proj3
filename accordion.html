@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+      integrity="sha512-Iq2DNV44PJ9t79OCpHFnP9i5klDzVb19Mpdn2eC4qNyd3+owZ1fDR7ur2kVZc3uyyd9KZR8of5Oo2xgI1wYqUw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+   
+    <style>
+      .answer {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td>영화관 이용</td>
+        <td class="question" onclick="toggleAnswer(this)">
+          <i class="fa fa-question-circle" aria-hidden="true"></i>군인 할인은
+          어떻게 받나요?
+        </td>
+        <td class="answer" colspan="2">
+          <i class="fa fa-slack" aria-hidden="true"></i>군인 할인에 관한 답변
+          내용
+        </td>
+      </tr>
+      <!-- Add more rows as needed -->
+      
+    </table>
+   
+    
+    <!-- Accordion test -->
+    <script src="accordion.js"></script>
+  </body>
+</html>
