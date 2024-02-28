@@ -4,6 +4,42 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="styles.css" />
+    <style>
+      #board-search {
+  display: flex;
+  align-items: center;
+}
+
+/* 추가된 CSS 스타일 */
+fieldset.search_wrap {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px; /* 필요에 따라 조절 */
+}
+
+/* 추가된 CSS 스타일 */
+fieldset.search_wrap input {
+  flex: 1;
+  margin-right: 10px; /* 필요에 따라 조절 */
+}
+
+/* 추가된 CSS 스타일 */
+.txt_help_wrap {
+  flex-shrink: 0;
+}
+
+/* 검색 박스에 대한 추가된 CSS 스타일 */
+.search-window {
+  background-color: pink; /* 원하는 핑크색으로 변경 */
+  padding: 10px; /* 필요에 따라 조절 */
+}
+
+/* 검색어 입력창에 대한 추가된 CSS 스타일 */
+.search-wrap input {
+  width: 300px; /* 원하는 너비로 조절 */
+  padding: 8px; /* 필요에 따라 조절 */
+}
+    </style>
     <title>Your Website</title>
   </head>
   <body>
@@ -26,24 +62,26 @@
       <button>
         <span>1:1문의</span>
       </button>
-      <button>
-        <span>분실물 문의</span>
-      </button>
-    </div>
-
-    <!-- board seach area -->
-    <div id="board-search">
-      <div class="container">
-          <div class="search-window">
-              <form action="">
-                  <div class="search-wrap">
-                      <label for="search" class="blind">공지사항 내용 검색</label>
-                      <input id="search" type="search" name="" placeholder="검색어를 입력해주세요." value="">
-                      <button type="submit" class="btn btn-dark">검색</button>
-                  </div>
-              </form>
-          </div>
       </div>
+
+      
+   
+ <!-- 1:1문의 바로가기와 추가 정보를 포함한 div 추가 -->
+<div id="board-search" class="search-section">
+  <div class="container">
+    <!-- 검색 창 -->
+    <fieldset class="search_wrap ty2">
+      <legend>영화관 FAQ 검색하기</legend>
+      <input type="text" placeholder="검색어를 입력해주세요." id="searchKeyword" title="검색어를 입력해주세요">
+      <button type="button" class="btn_col2">검색</button>
+      <!-- 1:1문의 바로가기와 추가 정보를 함께 묶음 -->
+      <div class="txt_help_wrap">
+        <!-- 1:1문의 바로가기 링크 -->
+        <a href="/customerservice/inquiry">1:1문의 바로가기</a>
+        <!-- "더 궁금한 점이 있거나, 이미 문의한 내용과 답변을 확인하려면?" 문구 -->
+        <p>더 궁금한 점이 있거나, 이미 문의한 내용과 답변을 확인하려면?</p>
+        <!-- 여기에 추가적인 문구나 링크 등을 원하는 대로 추가 -->
+      </div>
+    </fieldset>
   </div>
-  </body>
-</html>
+</div>
